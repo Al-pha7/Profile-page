@@ -1,0 +1,138 @@
+/* *{
+    width: 0;
+    margin: 0;
+} */
+header >h1{
+    text-align: center;
+    font-size: 40px;
+    text-decoration-line: underline;
+}
+header> div> p{
+    text-align: center;
+    width: 800px;
+    margin-left: 250px;
+    font-size: 20px;
+}
+.profile-pic > img{
+    border-radius: 50%;
+    margin-left: 100px;
+}
+.profile-section{
+    display: flex;
+}
+.pro-info> h3{
+    font-size: 35px;
+    text-decoration-line: underline;
+    margin-left: 100px;
+}
+.contact{
+    display:list-item;
+}
+.contact> p{
+    font-size: 20px;
+    margin-left: 120px;
+}
+.skills >h3{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 20px 0px 0px 10px;
+    text-decoration-line: underline;
+    text-align: center;
+}
+.skills >div >p{
+    font-size: 18px;
+    background-color:rgb(243, 234, 243);
+    padding: 7px;
+    margin: 5px;
+    margin-left: 15px;
+}
+.hobbies > h3{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 20px 0px 0px 10px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.hobbies >div >p{
+    font-size: 18px;
+    background-color:rgb(243, 234, 243);
+    padding: 7px;
+    margin: 5px;
+    margin-left: 15px;
+}
+.project-card > h3{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 20px 0px 0px 10px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width:400px;
+    background-color: beige;
+    text-align: center;
+    margin: 20px 20px 0px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.card>h5{
+    font-size: 25px;
+}
+.card > p{
+    font-size: 20px;
+    margin-top: 0px;
+}
+.cardL{
+    display: flex;
+    justify-content: space-between;
+}
+.cardlast{
+    width:600px;
+    background-color: beige;
+    text-align: center;
+    margin: 20px 20px 0px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.cardlast > h5{
+    font-size: 25px;
+}
+.cardlast > p{
+    font-size: 20px;
+}
+footer> h3{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 20px 0px 0px 10px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.contact-me{
+    display: flex;
+    justify-content:space-between;
+    margin: 20px 400px 0px;
+}
+i{
+    font-size: 70px;
+    color: black;
+}
+.contact-on> h6{
+    font-size: 25px;
+    margin-top: 10px;
+    text-decoration-line: underline;
+}
+h6> a{
+    color: black;
+}
